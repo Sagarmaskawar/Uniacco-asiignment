@@ -1,0 +1,19 @@
+.guest{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.search{
+    margin-left: 40px;
+   padding: 10px;
+   background-color: red;
+   color:white;
+    border: 1px solid red;
+    border-radius: 50px;
+}
+.gue{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}

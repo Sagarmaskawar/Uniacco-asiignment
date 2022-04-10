@@ -1,0 +1,30 @@
+.host{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 20%;
+    margin-left: 1000px;
+    position: relative;
+    background-color: transparent;
+}
+.menu{
+
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid red;
+    border-radius: 20px;
+    background-color: white;
+    color: gray;
+}
+.namee{
+    color: white;
+}
+.icon{
+    margin: 0px 5px;
+    color: white;
+}
+.bars{
+    margin: 0px 15px;
+}

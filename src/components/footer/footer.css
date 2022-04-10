@@ -1,0 +1,73 @@
+.fpart{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 50px 0px;
+    margin-top: 50px;
+}
+.ffpart{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.ull{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+li{
+    cursor: pointer;
+}
+.spart{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.foo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.name{
+    margin: 0px 10px;
+}
+.icons{
+    margin: 0px 10px;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.flast{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+}
+.fooo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+.footer{
+    width: 100%;
+    background-color: #EBEBEB;
+    
+}
+.linee{
+    width: 80%;
+    border: 1.5px solid darkgrey;
+margin-left: 100px;
+margin-right: 500px;
+color: darkgray;
+}
